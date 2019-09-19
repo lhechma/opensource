@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Peoples! o" );
+        System.out.println( "Hello Peoples! " );
     }
 
     public int getAge(){
