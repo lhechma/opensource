@@ -14,6 +14,6 @@ public class AppTest {
     @Test
     public void shouldAnswerWithTrue() {
         App app = new App();
-        assertTrue(app.getAge() == 10);
+        assertTrue(app.getAge() == 12);
     }
 }
